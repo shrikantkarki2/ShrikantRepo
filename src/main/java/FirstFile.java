@@ -4,5 +4,6 @@ public class FirstFile {
         System.out.print("The file is now  newly");
 
         System.out.println("push line");
+        System.out.println("pull line");
     }
 }
